@@ -1,0 +1,10 @@
+
+path: ./dataset
+train: images/train
+val: images/val
+
+nc: 3
+names:
+  - botella
+  - caja
+  - bolsa
