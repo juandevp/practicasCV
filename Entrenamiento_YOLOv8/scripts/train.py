@@ -6,7 +6,7 @@ model = YOLO('yolov8n.pt')
 
 # Entrenamiento personalizado
 model.train(
-    data='data.yaml',
+    data='C:\Repos\practicasCV\Entrenamiento_YOLOv8\dataset\data.yaml',
     epochs=50,
     imgsz=640,
     batch=16,

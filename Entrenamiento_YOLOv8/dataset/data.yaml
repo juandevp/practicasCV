@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['botella', 'caja']
+
+roboflow:
+  workspace: detencin-de-objetos-en-estanteras
+  project: my-first-project-srulb
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/detencin-de-objetos-en-estanteras/my-first-project-srulb/dataset/2
