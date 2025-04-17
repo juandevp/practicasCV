@@ -18,7 +18,7 @@ pip install -r requirements.txt
 python scripts/train.py
 ```
 
-3. Revisa resultados en `runs/detect/modelo_personalizado/`.
+3. Revisa resultados en `runs/detect/modelo_personalizado2/`.
 
 ## Etiquetado de Imágenes
-- Puedes usar [Roboflow](https://roboflow.com/) o [LabelImg](https://github.com/tzutalin/labelImg).
+- [Roboflow](https://roboflow.com/).
